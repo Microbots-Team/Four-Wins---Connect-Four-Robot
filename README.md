@@ -35,9 +35,10 @@ This project combines **artificial intelligence**, **computer vision**, and **ro
 
 ---
 
-## 🌐 Connect with Us
-Follow and connect with the team on LinkedIn:  
-- [Jolian]()  
+## 👨‍💻 Contributors:
+Special thanks to :  
+
+- **Jolian Wassof** [LinkedIn](https://www.linkedin.com/in/jolian-wassof-85512b375/)  
 
 
 ---
@@ -51,6 +52,7 @@ Follow and connect with the team on LinkedIn:
 
 ## 📸 Demo
 
+**Coming soon!**
 
 ---
 
